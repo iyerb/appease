@@ -1,0 +1,6 @@
+AppID,AppName,AppDesc,BusinessCritality,Architecture,WebServer,AppServer,IntegrationServer,DatabaseServer,DatabaseInstance
+AP01,App01,Application01,7,3-Tier,SGP_WEB_01,SGP_APP_01,SGP_INT_01,SGP_DB_01,SGP_DB_01_INS_01
+AP02,App02,Application02,6,Microservices,SGP_WEB_01,SGP_APP_01,SGP_INT_01,SGP_DB_01,SGP_DB_01_INS_02
+AP03,App03,Application03,5,Standalone,SGP_WEB_01,SGP_APP_01,SGP_INT_01,SGP_DB_01,SGP_DB_01_INS_03
+AP04,App04,Application04,5,3-Tier,SGP_WEB_01,SGP_APP_01,SGP_INT_01,SGP_DB_01,SGP_DB_01_INS_04
+AP05,App05,Application05,6,3-Tier,SGP_WEB_01,SGP_APP_01,SGP_INT_01,SGP_DB_01,SGP_DB_01_INS_05
